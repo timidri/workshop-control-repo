@@ -1,0 +1,5 @@
+---
+base_apps::redhat:
+  - unzip
+  - git
+  - nano
