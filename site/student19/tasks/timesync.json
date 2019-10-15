@@ -1,5 +1,5 @@
 {
-  "description": "Configures Windows Time via powershell",
+  "description": "Configures Windows Time via powershell!",
   "input_method": "powershell",
   "parameters": {
     "restart": {
